@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="92fe5b35-6723-4679-8ce9-7afba432ac12" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a8bvLOJi8lm9edlroHObLm8AXX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last.edited.regexp" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="VisualVMLauncher" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cp3.ass01.suffixtree" />
+      <recent name="cp3.ass01.suffixtrie" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Google Drive\1. Moel &amp; Malex\1. Our Documents\1. Joel\UNI\2020 - Comp Master - Semester 1\COMP9712 Computer Programming 3\Assignments\Assignment 1\Assignment01\data" />
+      <recent name="E:\Google Drive\1. Moel &amp; Malex\1. Our Documents\1. Joel\UNI\2020 - Comp Master - Semester 1\COMP9712 Computer Programming 3\Assignments\Assignment 1\Assignment01\src\cp3\ass01\suffixtree" />
+      <recent name="E:\Google Drive\1. Moel &amp; Malex\1. Our Documents\1. Joel\UNI\2020 - Comp Master - Semester 1\COMP9712 Computer Programming 3\Assignments\Assignment01\data" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TrieDriver">
+    <configuration name="SuffixTreeDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cp3.ass01.suffixtree.SuffixTreeDriver" />
+      <module name="Assignment01" />
+      <option name="VM_PARAMETERS" value="-Xmx10000m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cp3.ass01.suffixtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SuffixTrieDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cp3.ass01.suffixtrie.SuffixTrieDriver" />
+      <module name="Assignment01" />
+      <option name="VM_PARAMETERS" value="-Xmx10000m" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cp3.ass01.suffixtree.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TextAreaDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cp3.ass01.trie.TextAreaDemo" />
+      <module name="Assignment01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cp3.ass01.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrieDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cp3.ass01.trie.TrieDriver" />
+      <module name="Assignment01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cp3.ass01.trie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.SuffixTrieDriver" />
+      <item itemvalue="Application.TextAreaDemo" />
+      <item itemvalue="Application.TrieDriver" />
+      <item itemvalue="Application.SuffixTreeDriver" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TrieDriver" />
+        <item itemvalue="Application.TextAreaDemo" />
+        <item itemvalue="Application.SuffixTreeDriver" />
+        <item itemvalue="Application.SuffixTrieDriver" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Joel\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="92fe5b35-6723-4679-8ce9-7afba432ac12" name="Default Changelist" comment="" />
+      <created>1586120397173</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586120397173</updated>
+      <workItem from="1586120398575" duration="12322000" />
+      <workItem from="1586150414630" duration="2501000" />
+      <workItem from="1586324493629" duration="214000" />
+      <workItem from="1586325129483" duration="493000" />
+      <workItem from="1586330829087" duration="454000" />
+      <workItem from="1586331647044" duration="2648000" />
+      <workItem from="1586338439662" duration="7027000" />
+      <workItem from="1586652247159" duration="4062000" />
+      <workItem from="1587428997224" duration="37489000" />
+      <workItem from="1587607039675" duration="7101000" />
+      <workItem from="1587614184218" duration="138000" />
+      <workItem from="1587614344247" duration="1082000" />
+      <workItem from="1587615476269" duration="1505000" />
+      <workItem from="1587617517413" duration="59000" />
+      <workItem from="1587618015394" duration="11349000" />
+      <workItem from="1587631412450" duration="5105000" />
+      <workItem from="1587688544626" duration="53280000" />
+      <workItem from="1587753162548" duration="113000" />
+      <workItem from="1587960460607" duration="2419000" />
+      <workItem from="1588027272484" duration="15000" />
+      <workItem from="1588037487811" duration="14000" />
+      <workItem from="1588466837695" duration="37164000" />
+      <workItem from="1588640699582" duration="596000" />
+      <workItem from="1591838344347" duration="3671000" />
+      <workItem from="1591934230628" duration="1790000" />
+      <workItem from="1592266887718" duration="64000" />
+      <workItem from="1592284518457" duration="2187000" />
+      <workItem from="1592381274451" duration="1098000" />
+      <workItem from="1621173597012" duration="12000" />
+      <workItem from="1621173714036" duration="3198000" />
+    </task>
+    <task id="LOCAL-00001" summary="First commit, copied in code from Lab02 and tested to make sure it still works (it does).">
+      <created>1587447238265</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587447238265</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Finished the readInDictionary method for Task A">
+      <created>1587455014107</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587455014107</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Finished the mostFreqWordByPrefix method for Task A">
+      <created>1587529789943</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587529789943</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Finished the implementation of insert() in Task 2">
+      <created>1587541647523</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1587541647523</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Finished the implementation of get() and readInFromFile() in Task 2.">
+      <created>1587607168471</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1587607168471</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished the implementation of get() and readInFromFile() in Task 2. Removed Unicode character from code.">
+      <created>1587607288228</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1587607288228</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Implemented lowercase only storing and searching. Reduced the size of my array by 26 characters.">
+      <created>1587609205561</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1587609205561</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Small change to test for replacement character...">
+      <created>1587609784276</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1587609784276</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Small change to test for replacement character again...">
+      <created>1587609847479</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1587609847479</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added &quot;data/&quot; to the filename to pass the stricter FLO tests">
+      <created>1587610419192</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1587610419192</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added a check for empty lines">
+      <created>1587612009187</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1587612009187</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added a check for empty lines, with better logic">
+      <created>1587612308013</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1587612308013</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Final commit of working code before I make changes to handle large file sizes.">
+      <created>1587613063536</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1587613063536</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Commit of code after increasing heap size. Not sure if any changes.">
+      <created>1587615681708</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1587615681708</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Reimplemented the SuffixTrieNodes using TreeMaps to hold children instead of an array.">
+      <created>1587619652560</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1587619652560</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Finished the in-program profiling code.">
+      <created>1587670181836</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1587670181836</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Final commit before doing extensions.">
+      <created>1587696133715</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1587696133715</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Trying to implement Ukkonen Extension 2... ugh :(">
+      <created>1587725729959</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1587725729959</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Nearly got Ukonnen's working...">
+      <created>1587729855632</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1587729855632</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Think tree is working now...">
+      <created>1587731932698</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1587731932698</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Everything working except for Indexing the start of substrings. Working on that now.">
+      <created>1587738512562</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1587738512562</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Can't make it work... :(">
+      <created>1587750900029</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1587750900029</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Final commit, the Ukkonen algorithm doesn't seem to work well on bigger files. I'm not sure why at this stage.">
+      <created>1587752413811</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1587752413811</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Actually, this is the final submit.">
+      <created>1587962091232</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1587962091232</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Starting work on my own SuffixTree">
+      <created>1588468533537</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1588468533537</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Completed most of it now, just hunting bugs">
+      <created>1588503552142</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1588503552142</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Completed most of it now, just hunting bugs 2">
+      <created>1588505120825</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1588505120825</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Completed most of it now, just hunting bugs 3">
+      <created>1588505832947</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1588505832947</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Completed most of it now, just hunting bugs 4">
+      <created>1588506617010</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1588506617010</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Final, final commit">
+      <created>1588513992157</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1588513992157</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Finished the implementation of get() and readInFromFile() in Task 2. Removed Unicode character from code." />
+    <MESSAGE value="Implemented lowercase only storing and searching. Reduced the size of my array by 26 characters." />
+    <MESSAGE value="Small change to test for replacement character..." />
+    <MESSAGE value="Small change to test for replacement character again..." />
+    <MESSAGE value="Added &quot;data/&quot; to the filename to pass the stricter FLO tests" />
+    <MESSAGE value="Added a check for empty lines" />
+    <MESSAGE value="Added a check for empty lines, with better logic" />
+    <MESSAGE value="Final commit of working code before I make changes to handle large file sizes." />
+    <MESSAGE value="Commit of code after increasing heap size. Not sure if any changes." />
+    <MESSAGE value="Reimplemented the SuffixTrieNodes using TreeMaps to hold children instead of an array." />
+    <MESSAGE value="Finished the in-program profiling code." />
+    <MESSAGE value="Final commit before doing extensions." />
+    <MESSAGE value="Trying to implement Ukkonen Extension 2... ugh :(" />
+    <MESSAGE value="Nearly got Ukonnen's working..." />
+    <MESSAGE value="Think tree is working now..." />
+    <MESSAGE value="Everything working except for Indexing the start of substrings. Working on that now." />
+    <MESSAGE value="Can't make it work... :(" />
+    <MESSAGE value="Final commit, the Ukkonen algorithm doesn't seem to work well on bigger files. I'm not sure why at this stage." />
+    <MESSAGE value="Actually, this is the final submit." />
+    <MESSAGE value="Starting work on my own SuffixTree" />
+    <MESSAGE value="Completed most of it now, just hunting bugs" />
+    <MESSAGE value="Completed most of it now, just hunting bugs 2" />
+    <MESSAGE value="Completed most of it now, just hunting bugs 3" />
+    <MESSAGE value="Completed most of it now, just hunting bugs 4" />
+    <MESSAGE value="Final, final commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Final, final commit" />
+  </component>
+</project>
